@@ -5,6 +5,6 @@
    if board[index]=="" || board[index]==" "
      return true
   else 
-    return nil
+    return false
   end
  end
